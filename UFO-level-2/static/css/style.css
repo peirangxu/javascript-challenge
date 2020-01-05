@@ -224,6 +224,6 @@ select {
   }
 }
 
-button {
+#filter-btn {
   background-color: #1b3146;
 }
